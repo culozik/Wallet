@@ -2,7 +2,7 @@
   "name": "team-project-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://memx86-team-project-wallet.netlify.app/",
+  "homepage": "https://beg-wallet.netlify.app/",
   "dependencies": {
     "@reduxjs/toolkit": "^1.8.1",
     "@testing-library/jest-dom": "^5.16.1",
